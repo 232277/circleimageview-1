@@ -1,3 +1,7 @@
+
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191023090914820.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xqMTg4MjY2,size_16,color_FFFFFF,t_70)
+
 在项目中使用圆形的图片的需求还是蛮大的，所以封装一个圆形图片的控件，可以加载本地图片以及网络图片，此控件是继承自Imageview控件。
 
 ## 项目地址
